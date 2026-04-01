@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="baekjoon_solutions.vcxproj" />
+  <Project Path="baekjoon_solutions.vcxproj" Id="e7b3b453-986b-4775-bd45-f7b206670849" />
 </Solution>
